@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 # 💫 About Me:
 I'm currently a stundent who wants to be the best.<br>I like to play videogames and pizza.<br>My favorite programming language is Python.<br>I like to work in a team<br>
 
